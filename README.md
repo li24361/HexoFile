@@ -1,0 +1,2 @@
+# HexoFile
+Blog file
